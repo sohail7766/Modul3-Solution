@@ -1,0 +1,25 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    color: #6B0000;
+}
+.bg-light {
+    background-color: #6B0000!important;
+}
+h1 {
+    margin: 2% 0;
+    text-align: center;
+}
+h3 {
+    padding: 5% 0;
+    font-weight: 700;
+    text-align: center;
+}
+.articlebox {
+    overflow: hidden;
+    height: 100%;
+    padding: 0 10px;
+    color: #6B0000;
+    border: 3px solid #6B0000;
+    border-radius: 20px;
+}
